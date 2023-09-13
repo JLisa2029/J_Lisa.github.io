@@ -13,5 +13,12 @@
     <h1>
      Today we are learning about github.
     </h1>
+    <h2>An ordered HTML list</h2>
+
+<ul>
+  <li>Do college now eassy by thu</li>
+  <li>Make food for mom before she comes home</li>
+  <li>Do hw for today</li>
+</ul>  
  </body>    
 </html>
