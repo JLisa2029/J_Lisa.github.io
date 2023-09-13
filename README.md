@@ -8,14 +8,10 @@
     <title> 
        Jafnun lisa Senior studnet at Thomas Edison Hs
     </title>
-  
-     </head>
-     <body>
-     <h1>
+  </head>
+  <body>
+    <h1>
      Today we are learning about github.
-     </h1>
-
-     </body>
-     </head>
-     
+    </h1>
+ </body>    
 </html>
